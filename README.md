@@ -12,7 +12,7 @@ Certifique-se de ter as seguintes bibliotecas instaladas:
 
 Você pode instalá-las usando o `pip`:
 
-# Execute o arquivo `main.py`:
+Execute o arquivo `main.py`:
 
 # A interface do aplicativo será aberta. Insira o texto desejado e clique no botão "Gerar QR Code".
 
@@ -20,5 +20,9 @@ Você pode instalá-las usando o `pip`:
 
 - Geração de QR Code a partir de texto fornecido pelo usuário.
 - Visualização do QR Code gerado dentro da pasta Qr-Code
+
+# Interface
+![Aplicação](interface.png)
+
 
 

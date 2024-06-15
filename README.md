@@ -14,7 +14,7 @@ Você pode instalá-las usando o `pip`:
 
 Execute o arquivo `main.py`:
 
-# A interface do aplicativo será aberta. Insira o texto desejado e clique no botão "Gerar QR Code".
+A interface do aplicativo será aberta. Insira o texto desejado e clique no botão "Gerar QR Code".
 
 ## Funcionalidades
 
@@ -22,7 +22,8 @@ Execute o arquivo `main.py`:
 - Visualização do QR Code gerado dentro da pasta Qr-Code
 
 # Interface
-![Aplicação](interface.png)
+![Gerador](https://github.com/Isllanrx/Qr-Code-Python/raw/main/Interface.png)
+
 
 
 
